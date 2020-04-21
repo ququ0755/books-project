@@ -1,5 +1,10 @@
-class my_class(object):
-    pass
+print("hello!")
+if True:
+    print("ok!")
+else:
+    print("ops!")
+    
+
 
 
 
