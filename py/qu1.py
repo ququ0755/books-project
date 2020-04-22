@@ -5,6 +5,8 @@ else:
     print("ops!")
 str="hello!"
 print(str)
+------------
+print(5**8)
 
     
 
